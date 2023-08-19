@@ -1,0 +1,26 @@
+{
+    "0": {
+        "value": 0,
+        "label": "0 Roll(s)"
+    },
+    "1": {
+        "value": 1,
+        "label": "1 Roll(s)"
+    },
+    "2": {
+        "value": 2,
+        "label": "2 Roll(s)"
+    },
+    "3": {
+        "value": 3,
+        "label": "3 Roll(s)"
+    },
+    "4": {
+        "value": 4,
+        "label": "4 Roll(s)"
+    },
+    "5": {
+        "value": 5,
+        "label": "5 Roll(s)"
+    }
+}

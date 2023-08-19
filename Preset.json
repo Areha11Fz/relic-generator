@@ -1,0 +1,956 @@
+{
+    "Testinge": {
+        "1": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 102,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 103,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 104,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 302,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 301,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "Testinge"
+    },
+    "Mantap": {
+        "1": {
+            "SetID": 104,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 101,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "Mantap"
+    },
+    "F2P Musket, SSS": {
+        "1": {
+            "SetID": 102,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 102,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 12,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 102,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 102,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 301,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 301,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 10,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "F2P Musket, SSS"
+    },
+    "F2P DanIL": {
+        "1": {
+            "SetID": 112,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 112,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 12,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 112,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 112,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 309,
+            "MainStat": 10,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 309,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 10,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "F2P DanIL"
+    },
+    "F2P Luocha": {
+        "1": {
+            "SetID": 102,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 2,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 102,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 10,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 5,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 102,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 7,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 102,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 4,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 2,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 310,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 5,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 310,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 6,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 4,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 10,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "F2P Luocha"
+    },
+    "F2P Yukong": {
+        "1": {
+            "SetID": 112,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "2": {
+            "SetID": 112,
+            "MainStat": 1,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 12,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "3": {
+            "SetID": 112,
+            "MainStat": 4,
+            "Substats": [
+                {
+                    "id": 9,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 2,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 2,
+                    "step": 2
+                }
+            ]
+        },
+        "4": {
+            "SetID": 112,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 6,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "5": {
+            "SetID": 310,
+            "MainStat": 10,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 3,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "6": {
+            "SetID": 310,
+            "MainStat": 2,
+            "Substats": [
+                {
+                    "id": 8,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 9,
+                    "rolls": 1,
+                    "step": 2
+                },
+                {
+                    "id": 11,
+                    "rolls": 3,
+                    "step": 2
+                },
+                {
+                    "id": 10,
+                    "rolls": 3,
+                    "step": 2
+                }
+            ]
+        },
+        "label": "F2P Yukong"
+    }
+}
